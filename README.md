@@ -13,7 +13,7 @@ A Full-Stack Web Application
 -   [How to Install](#how-to-install)
 -   [Challenges & Solutions](#challenges--solutions)
 -   [Author](#author)
--   [Project Link](#project-link)
+
 
 
 ## Project Overview
@@ -118,13 +118,14 @@ Follow these steps to set up and run the project locally:
 
 Encountered challenges, especially with data handling, but implemented efficient solutions. Overcame scalability issues with a well-architected backend.
 
+
 ## Author
 
-Vinayak R Y \
+Vinayak R Y 
 
 
-## Thank You
+## Contributing
 
-Thank you for exploring Wanderlust! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with me. 
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
