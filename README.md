@@ -1,6 +1,6 @@
 
 # Wanderlust /property-rental-app
-A Full-Stack Web Application 
+Wanderlust is a full-stack web application inspired by Airbnb, designed to be a complete marketplace for property rentals. Users can browse a wide variety of listings, view them on an interactive map, and read reviews from other users. Authenticated users can create, manage, and delete their own property listings, as well as leave reviews on properties they have visited. 
 
 
 ---
