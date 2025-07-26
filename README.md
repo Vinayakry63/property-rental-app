@@ -116,8 +116,8 @@ Follow these steps to set up and run the project locally:
 
 ## Challenges & Solutions
 
--     Encountered challenges, especially with data handling, but implemented efficient solutions. Overcame scalability issues with a well-architected backend.
--     One of the other main challenges was converting user-provided location strings into geographic coordinates (latitude and longitude) to accurately display listings on the Mapbox map
+- Encountered challenges, especially with data handling, but implemented efficient solutions. Overcame scalability issues with a well-architected backend.
+- One of the other main challenges was converting user-provided location strings into geographic coordinates (latitude and longitude) to accurately display listings on the Mapbox map
 
 
 ## Contributing
