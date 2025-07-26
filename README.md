@@ -35,11 +35,11 @@ Excited to share my journey of developing a feature-rich full-stack web applicat
 
 ### Image Storage
 
--   **Cloudinary**: Cloud-based image and video management solution.
+-   **Cloudinary**: A cloud-based service for managing the entire lifecycle of  media assets, used here to store, optimize, and deliver property images.
 
 ### Maps
 
--   **Mapbox**: Platform for custom maps and location-based experiences.
+-   **Mapbox**:Developer platform that provides APIs for creating custom interactive maps and converting location text into geographic coordinates.
 
 ### Frontend
 
